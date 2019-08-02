@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+body{
+    background-color: #23C9FF;
+}
+#Title {
+    margin: auto;
+    width: 50%;
+}
+#input{
+    height: 1.5em;
+    width: 16em;
+}
+table{
+    margin: 10px auto;
+    padding-top: 1em;
+    padding-bottom: 5em;
+    width: 50%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #624CAB;
+    
+}
